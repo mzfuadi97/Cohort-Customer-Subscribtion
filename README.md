@@ -46,6 +46,7 @@ sedangkan konsumen Female pada umur 63-66 tahun, memiliki revenue paling besar d
 
 *Profit dari jenis channel                                                                    
 ![](/images/p3.PNG)
+
 Berdasarkan grafik, bahwa channel email lebih efektif dari pada channel phone, revenue channel email sebesar $11,72. Hal ini penawaran pd_2 efektif melalui channel email.
 
 [See All Files](https://github.com/mzfuadi97/Cohort-Customer-Subscribtion)
