@@ -35,12 +35,18 @@ The Charts result:
 *Profit dari konsumen perempuan & laki-laki
 ![](/images/p1.PNG)
 
+Pada konsumen Male memilki revenue per user sebesar $ 0,61
+sedangkan konsumen Female memiliki lebih rendah daripada konsumen Male sebesar -$0,28. Bahwa konsumen Male lebih tertarik / efektif penawaran terhadap produk pd_2.
+
 *Profit dari top 3 dari rentang umur konsumen berdasarkan jenis kelamin
 ![](/images/p2.PNG)
 
-*Profit dari jenis channel
-![](/images/p3.PNG)
+Pada konsumen Male pada umur 53-58 tahun, memilki paling  revenue besar per user sebesar $ 1,57,
+sedangkan konsumen Female pada umur 63-66 tahun, memiliki revenue paling besar diantara  female yang lain  sebesar $0,84.
 
+*Profit dari jenis channel                                                                    
+![](/images/p3.PNG)
+Berdasarkan grafik, bahwa channel email lebih efektif dari pada channel phone, revenue channel email sebesar $11,72. Hal ini penawaran pd_2 efektif melalui channel email.
 
 [See All Files](https://github.com/mzfuadi97/Cohort-Customer-Subscribtion)
 
